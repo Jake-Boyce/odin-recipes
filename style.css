@@ -30,6 +30,13 @@ ul {
   background: blue;
 }
 
+ol {
+  width: 450px;
+  margin: 20px auto;
+  padding: 10px 40px;
+  background: blue;
+}
+
 li {
   margin: 20px auto;
 }
@@ -42,4 +49,27 @@ a {
 
 a:hover {
   color: #4f62bc;
+}
+
+img {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+p {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.home {
+  display: block;
+  width: 70px;
+  background: blue;
+  padding: 2px;
+}
+
+.description {
+  font-style: italic;
+  color: white;
+  margin-bottom: 80px;
 }
